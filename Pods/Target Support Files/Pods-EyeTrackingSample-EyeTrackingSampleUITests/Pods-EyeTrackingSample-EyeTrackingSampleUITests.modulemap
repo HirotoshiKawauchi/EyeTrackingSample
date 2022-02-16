@@ -1,0 +1,6 @@
+framework module Pods_EyeTrackingSample_EyeTrackingSampleUITests {
+  umbrella header "Pods-EyeTrackingSample-EyeTrackingSampleUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
